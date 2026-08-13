@@ -31,11 +31,11 @@ Supports both web and image search.
 ## Usage
 
 ### Web search (default)
-https://your-worker.workers.dev/?q=Your text
+https://your-worker.workers.dev/?q=Yourtext
 
 
 ### Image search
-https://your-worker.workers.dev/?q=Your text&type=images
+https://your-worker.workers.dev/?q=Yourtext&type=images
 
 
 ## Response Example (Image Search)
@@ -78,7 +78,7 @@ curl "https://searchweb.webserviceamir.workers.dev/?q=YOUR_QUERY"
 
 # Image search
 curl "https://searchweb.webserviceamir.workers.dev/?q=YOUR_QUERY&type=images"
-
+```
 
 
 ## 📋 Requirements
