@@ -46,11 +46,11 @@ Supports both web and image search.
 ## Usage
 
 ### Web search (default)
-https://searchweb.webserviceamir.workers.dev/?q=Yourtext
+https://YourDomain.workers.dev/?q=Yourtext
 
 
 ### Image search
-https://searchweb.webserviceamir.workers.dev/?q=Yourtext&type=images
+https://YourDomain.workers.dev/?q=Yourtext&type=images
 
 
 ## Response Example (Image Search)
