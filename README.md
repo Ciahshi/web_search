@@ -11,12 +11,6 @@
   <a href="https://serper.dev/">
     <img src="https://img.shields.io/badge/Powered_by-Serper.dev-4285F4?logo=google&logoColor=white" alt="Serper.dev">
   </a>
-  <a href="https://github.com/amirsia/serper-search-worker/stargazers">
-    <img src="https://img.shields.io/github/stars/amirsia/serper-search-worker?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/amirsia/serper-search-worker/network/members">
-    <img src="https://img.shields.io/github/forks/amirsia/serper-search-worker?style=social" alt="GitHub Forks">
-  </a>
 </div>
 
 # Serper Search Worker
