@@ -1,3 +1,24 @@
+<div align="center">
+  <br/>
+  <h1><code>🔍 Serper Search Worker</code></h1>
+  <p><code>A serverless web service for web & image search via Serper.dev (Google Search API)</code></p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://workers.cloudflare.com/">
+    <img src="https://img.shields.io/badge/Cloudflare_Workers-Serverless-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
+  </a>
+  <a href="https://serper.dev/">
+    <img src="https://img.shields.io/badge/Powered_by-Serper.dev-4285F4?logo=google&logoColor=white" alt="Serper.dev">
+  </a>
+  <a href="https://github.com/amirsia/serper-search-worker/stargazers">
+    <img src="https://img.shields.io/github/stars/amirsia/serper-search-worker?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/amirsia/serper-search-worker/network/members">
+    <img src="https://img.shields.io/github/forks/amirsia/serper-search-worker?style=social" alt="GitHub Forks">
+  </a>
+</div>
+
 # Serper Search Worker
 
 A Cloudflare Worker that proxies search requests to [Serper.dev](https://serper.dev) (Google Search API).  
